@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>$(AssemblyName)-dj</PackageId>
+    <Title>Middle text from a string</Title>
+    <Company />
+    <Authors>Dheeraj Vemula</Authors>
+    <Copyright>MIT</Copyright>
+    <PackageTags>Get text between strings, get data between strings, get text</PackageTags>
+    <PackageReadmeFile>Readme.md</PackageReadmeFile>
+  </PropertyGroup>
+
+</Project>
